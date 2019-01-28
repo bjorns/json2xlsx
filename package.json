@@ -18,6 +18,7 @@
   "author": "Björn Skoglund",
   "license": "MIT",
   "dependencies": {
+    "optparse": "^1.0.5",
     "xlsx": "^0.14.1"
   }
 }

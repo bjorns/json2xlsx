@@ -2,4 +2,4 @@
 
 const main = require('../lib/main');
 
-main.main(process.args);
+main.main(process.argv);
