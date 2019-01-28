@@ -1,0 +1,23 @@
+{
+  "name": "json2xlsx",
+  "version": "0.1.0",
+  "description": "Convert json files to MS Excel",
+  "main": "bin/json2xlsx",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "json",
+    "excel",
+    "xls",
+    "xlsx"
+  ],
+  "author": "Björn Skoglund",
+  "license": "MIT",
+  "dependencies": {
+    "xlsx": "^0.14.1"
+  }
+}
