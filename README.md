@@ -23,3 +23,9 @@ You may get just
 In this case each line in the file in well formed but the file as a whole is not. For
 this case use the --lines parameter.
 
+## Key Column
+
+Key column allows you to pick what json field is placed in the A column in the
+resulting spreadsheet. Use the json key as a parameter
+
+    $ json2xlsx --key email data.json
